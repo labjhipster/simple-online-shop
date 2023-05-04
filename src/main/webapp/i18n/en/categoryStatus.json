@@ -1,0 +1,10 @@
+{
+  "tiendaApp": {
+    "CategoryStatus": {
+      "null": "",
+      "AVAILABLE": "AVAILABLE",
+      "RESTRICTED": "RESTRICTED",
+      "DISABLED": "DISABLED"
+    }
+  }
+}
